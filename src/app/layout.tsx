@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "HEXASHOP - Fashion for Everyone",
+  title: "YARNSHOP - Fashion for Everyone",
   description: "Ecommerce clothing store built with Next.js",
 };
 

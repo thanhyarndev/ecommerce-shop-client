@@ -40,7 +40,7 @@ export default function HeroSection() {
           className="object-cover opacity-80"
         />
         <div className="absolute inset-0 flex flex-col justify-center items-start p-8 z-10 text-white">
-          <h2 className="text-4xl font-bold mb-2">We Are Hexashop</h2>
+          <h2 className="text-4xl font-bold mb-2">We Are Yarnshop</h2>
           <p className="text-base mb-4">
             Awesome, clean & creative HTML5 Template
           </p>

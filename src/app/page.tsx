@@ -1,6 +1,9 @@
 // src/app/page.tsx
 import HeroSection from "@/components/home/HeroSection";
 import ProductCarousel from "@/components/product/ProductCarousel";
+import ExploreProductsSection from "@/components/home/ExploreProductsSection";
+import SubscribeSection from "@/components/home/SubscribeSection";
+
 
 
 export default function HomePage() {
@@ -10,6 +13,8 @@ export default function HomePage() {
       <ProductCarousel title="Men's Latest" category="men" />
       <ProductCarousel title="Women's Latest" category="women" />
       <ProductCarousel title="Kids' Latest" category="kids" />
+      <ExploreProductsSection />
+      <SubscribeSection />
     </div>
   );
 }

@@ -40,7 +40,7 @@ export default function CategoryGrid() {
       {/* Second column: full height banner chính */}
       <div className="row-span-2 hidden md:block">
         <div className="w-full h-full bg-gray-100 flex items-center justify-center text-center p-8">
-          <h2 className="text-2xl font-semibold">We Are Hexashop</h2>
+          <h2 className="text-2xl font-semibold">We Are Yarnshop</h2>
         </div>
       </div>
 

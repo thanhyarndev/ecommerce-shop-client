@@ -133,7 +133,7 @@ export default function ProductCarousel({
         <div>
           <h2 className="text-2xl font-bold">{title}</h2>
           <p className="text-sm text-gray-500">
-            Details to details is what makes Hexashop different from the other
+            Details to details is what makes Yarnshop different from the other
             themes.
           </p>
         </div>
