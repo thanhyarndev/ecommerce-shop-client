@@ -20,7 +20,7 @@ export default function Header() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo */}
         <Link href="/" className="text-xl font-bold tracking-wide">
-          HEXASHOP
+          YARNSHOP
         </Link>
 
         {/* Desktop Nav */}
