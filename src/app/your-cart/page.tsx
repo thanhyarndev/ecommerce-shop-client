@@ -6,7 +6,7 @@ import { cartItems, suggestions } from '@/app/your-cart/data/sample-data';
 
 export default function YourCartPage() {
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container mx-auto px-4 py-8">z
       <div className="grid md:grid-cols-3 gap-8">
         {/* ========= LEFT: Suggestion + Cart ========= */}
         <div className="md:col-span-2 flex flex-col gap-12">
